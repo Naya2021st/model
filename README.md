@@ -7,12 +7,13 @@ Sprint 1: Maandag 16/11
 Opdracht 2: Eigen verkenning
 
 Wat wil ik zelf maken?
-Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de websites merkte ik dat ik vooral hou van websites die simpel zijn, maar toch iets unieks hebben. Bij de eerste website vond ik vooral de animaties en hover-effecten leuk. Bij de tweede website miste ik juist wat creativiteit en een eigen stijl.
+Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de websites merkte ik dat ik vooral hou van websites die simpel zijn, maar toch iets unieks hebben. Bij de eerste website vond ik vooral de animaties en hover effecten leuk. Bij de tweede website miste ik juist wat creativiteit en een eigen stijl.
 
 Ik wil zelf een website maken die overzichtelijk is, maar niet saai. Waar je ook een beetje kan spelen en dingen kan ontdekken.
 
 Welke webby dingen wil ik gebruiken?
--Hover-effecten bij knoppen en afbeeldingen.
+
+-Hover effecten bij knoppen en afbeeldingen.
 -Animaties tijdens het scrollen.
 -Verschillende kleuren en typografie.
 -Een duidelijke indeling.
@@ -48,5 +49,5 @@ Een digital gardening is een plek waar de maker eigen gedachte en idee kan plaat
 Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
 Omdat het een unieke stijl heeft.
 
-Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
 Ik wil een eigen portofolio maken die de stijl heeft van een boek, dit is alleen eerste idee
