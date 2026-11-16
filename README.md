@@ -1,2 +1,1 @@
-Hey mijn naam is naya
-hoezo
+Week 1: Sprint 0:
