@@ -51,3 +51,12 @@ Omdat het een unieke stijl heeft.
 
 Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)
 Ik wil een eigen portofolio maken die de stijl heeft van een boek, dit is alleen eerste idee
+
+My Digital World – Introductie van jouw onderwerp.
+My Inspiration – Jouw 50 afbeeldingen, verdeeld in categorieën.
+My Aesthetic – Kleuren, vormen, stijlen en symboliek.
+My Research – Antwoorden op de vijf onderzoeksvragen.
+Web Inspiration – Websites, animaties en interacties die je wilt gebruiken.
+My Direction – Wat je uiteindelijk wilt maken voor je Digital Garden.
+
+hey
