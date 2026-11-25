@@ -42,7 +42,7 @@ Tijdens deze opdracht heb ik de kennis uit de lessen toegepast door een mini pos
 
 <h2> Week 1 </h2>
 
-Sprint 1: Maandag 16/11
+<h3> Maandag 16/11 </h3>
 
 Opdracht 2: Eigen verkenning
 
@@ -98,5 +98,7 @@ My Aesthetic – Kleuren, vormen, stijlen en symboliek.
 My Research – Antwoorden op de vijf onderzoeksvragen.
 Web Inspiration – Websites, animaties en interacties die je wilt gebruiken.
 My Direction – Wat je uiteindelijk wilt maken voor je Digital Garden.
+
+<h2> Week 1 </h2>
 
  </details>
