@@ -52,63 +52,55 @@ Tijdens deze les zijn we begonnen met het bekijken en analyseren van bestaande w
 
 Wat wil ik zelf maken?
 
-Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de websites merkte ik dat ik vooral hou van websites die simpel zijn, maar toch iets unieks hebben. Bij de eerste website vond ik vooral de animaties en hover effecten leuk. Bij de tweede website miste ik juist wat creativiteit en een eigen stijl.Ik wil zelf een website maken die overzichtelijk is, maar niet saai. Waar je ook een beetje kan spelen en dingen kan ontdekken.
+Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de verschillende websites merkte ik dat ik vooral hou van websites die simpel zijn, maar tegelijkertijd iets unieks hebben. Ik wil zelf iets maken dat overzichtelijk is, maar zeker niet saai. Een website waar je als bezoeker dingen kan ontdekken.
 
 Welke webby dingen wil ik gebruiken?
-
--Hover effecten bij knoppen en afbeeldingen.
-
--Animaties tijdens het scrollen.
-
--Verschillende kleuren en typografie.
-
--Een duidelijke indeling.
-
--Interactieve elementen waar je op kan klikken.
+• Hover-effecten bij knoppen, teksten en afbeeldingen.
+• Animaties tijdens het scrollen.
+• Experimenteren met kleuren, gradients en typografie.
+• Light en dark mode.
+• Een interessante en tegelijkertijd duidelijke layout.
 
 Eigen content, toon en doel:
-
--Ik wil dat mijn Digital Garden persoonlijk en creatief wordt. Niet te serieus of formeel, maar juist op een manier die bij mij past.
-
--Ik wil mijn eigen interesses, ideeën en dingen die mij inspireren laten zien. Bijvoorbeeld creativiteit, design en dingen die ik zelf maak.
-
--Mijn doel is om een website te maken waar ik mijn eigen ideeën kan verzamelen en waar anderen ook inspiratie uit kunnen halen.
+Ik wil mijn Digital Garden persoonlijk en creatief maken. Niet te serieus of formeel, maar juist op een manier die bij mij past. Ik ben zelf graag creatief bezig en wil daarom mijn interesses, ideeën, inspiratie en dingen die ik zelf maak hierin laten terugkomen. Mijn doel is om een eigen online ruimte te creëren waarin ik mijn creativiteit kwijt kan, maar waar anderen eventueel ook inspiratie uit kunnen halen.
 
 Content van anderen
-
--Ik wil zoveel mogelijk mijn eigen content gebruiken, zoals foto's, teksten en ontwerpen. Maar ik wil ook inspiratie halen uit andere websites.
-Als ik iets van iemand anders gebruik, wil ik de bron erbij zetten en eerst kijken of ik het mag gebruiken. Ik wil niet zomaar iets kopiëren, maar er mijn eigen draai aan geven, zodat het ook echt bij mijn Digital Garden past.
+Ik wil zoveel mogelijk gebruikmaken van mijn eigen content, zoals foto's, teksten en ontwerpen. Natuurlijk wil ik ook inspiratie halen uit andere websites en ontwerpen. Als ik content van iemand anders gebruik, wil ik eerst kijken of ik deze mag gebruiken en de bron erbij vermelden. Ik wil niet zomaar iets overnemen, maar juist kijken hoe ik er mijn eigen draai aan kan geven.
 
 Verschillende ervaringen
 
-Ik wil niet dat mijn website alleen bestaat uit tekst en afbeeldingen. Ik wil dat bezoekers ook iets kunnen beleven.
+Ik wil niet dat mijn website alleen bestaat uit teksten en afbeeldingen. Het lijkt mij juist leuk om verschillende ervaringen te creëren.
+Zien: door het gebruik van kleuren, afbeeldingen, typografie en animaties.
+Voelen: door de sfeer en uitstraling die ik met mijn website wil overbrengen.
+Beleven: door interactieve elementen waar de bezoeker op kan klikken of mee kan spelen.
+Ik wil vooral dat mensen nieuwsgierig worden tijdens het bezoeken van mijn website en uit zichzelf verder willen kijken.
 
-Zien: door kleuren, afbeeldingen en animaties.
-Voelen: door de sfeer en uitstraling van mijn website.
-Beleven: door ergens op te klikken of met elementen te spelen.
+<p> <strong> Verdere verkenning van mijn Digital Garden: </strong> </p>
 
-Ik wil vooral dat mensen nieuwsgierig worden en verder willen kijken op mijn website.
+My Digital World
+Een introductie van mijn onderwerp, mijn interesses en waarom ik hiervoor heb gekozen.
+My Inspiration
+Het verzamelen van 50 afbeeldingen die mij aanspreken en inspireren, verdeeld in verschillende categorieën.
+My Aesthetic
+Het onderzoeken van verschillende kleuren, vormen, stijlen en symboliek die bij mij passen en die ik eventueel wil verwerken in mijn ontwerp.
+My Research
+Het beantwoorden van de vijf onderzoeksvragen om meer inzicht te krijgen in mijn onderwerp en de richting die ik op wil gaan.
+Web Inspiration
+Het verzamelen van websites met interessante layouts, animaties en interacties die ik zelf nog niet kan maken, maar wel graag zou willen leren.
+My Direction
+Op basis van mijn onderzoek en verzamelde inspiratie bepalen wat ik uiteindelijk wil maken. Ik wil mezelf hierin nog niet te veel beperken, omdat ik juist tijdens dit blok nieuwe dingen wil ontdekken, uitproberen en leren.
 
-<strong> De checkout vragen voor vandaag: </strong>
+<p><strong> De checkout vragen voor vandaag: </strong></p>
 
-Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website?
+1. Leg uit wat een Digital Garden is en waarom dat anders is dan een reguliere website?
 
-Een digital gardening is een plek waar de maker eigen gedachte en idee kan plaatsen. het is een stukje op het web ie van jouw is, eigen maken, eigen online ruimte waar je mag experimenteren.
+Een Digital Garden is eigenlijk een eigen stukje op het web waar je als maker jouw gedachten, ideeën, interesses en inspiratie kwijt kan. Het is een eigen online ruimte die je helemaal naar jouw smaak kan inrichten en waarin je vrij bent om te experimenteren. Wat het anders maakt dan een reguliere website, is dat een Digital Garden nooit echt af hoeft te zijn. Je kan deze steeds verder ontwikkelen en nieuwe dingen blijven toevoegen. 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Voor mij is een website webby wanneer er echt gebruik wordt gemaakt van de mogelijkheden die het web biedt. Denk hierbij aan animaties, interacties, gradients, hover-effecten en het aanpassen aan verschillende schermformaten?
 
-Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren?
+De website van Anna E. Cook inspireerde mij het meest, omdat zij ondanks een simpele indeling toch een unieke en persoonlijke stijl heeft weten te creëren. Dat is ook iets wat ik zelf wil bereiken met mijn Digital Garden. 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen Digital Garden?
 
-Omdat het een unieke stijl heeft.
-
-Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.)?
-
-Ik wil een eigen portofolio maken die de stijl heeft van een boek, dit is alleen eerste idee
-
-My Digital World – Introductie van jouw onderwerp.
-My Inspiration – Jouw 50 afbeeldingen, verdeeld in categorieën.
-My Aesthetic – Kleuren, vormen, stijlen en symboliek.
-My Research – Antwoorden op de vijf onderzoeksvragen.
-Web Inspiration – Websites, animaties en interacties die je wilt gebruiken.
-My Direction – Wat je uiteindelijk wilt maken voor je Digital Garden.
+Mijn eerste idee is om een persoonlijk portfolio te maken in de stijl van een boek. Ik vind het interessant om te onderzoeken hoe ik de ervaring van een fysiek boek kan vertalen naar het web. Bijvoorbeeld door animaties toe te voegen waarmee je digitaal door de pagina's kan bladeren.
+Ik wil hier mijn eigen interesses, creativiteit en persoonlijke stijl in verwerken. Dit is voor nu mijn eerste idee, maar ik sta er ook voor open om tijdens het blok een andere richting op te gaan als ik iets tegenkom wat mij meer aanspreekt.
 
 <h2> Week 2 </h2>
 
