@@ -44,9 +44,14 @@ Tijdens deze opdracht heb ik de kennis uit de lessen toegepast door een mini pos
 
 <h3> Maandag 16/11 </h3>
 
-Opdracht 2: Eigen verkenning
+<p> <strong> Opdracht 1: Rangschikken </strong> </p>
+
+Tijdens deze les zijn we begonnen met het bekijken en analyseren van bestaande websites om inspiratie op te doen voor onze eigen Digital Garden. Ik heb twee websites geanalyseerd, namelijk annaecook.com en mikemai.net. Hierbij heb ik gekeken naar hoe webby de websites zijn op basis van toegankelijkheid, interactie, expressiviteit, adaptiviteit en originaliteit. Persoonlijk sprak de website van Anna mij meer aan. Ondanks dat de website vrij simpel is, heeft het wel een eigen uitstraling. Er wordt veel gespeeld met hover effecten en animaties, zonder dat de website onoverzichtelijk wordt. De website van Mike Mai vond ik daarentegen minder interessant, omdat ik weinig interacties zag en de visuele hiërarchie voor mij niet duidelijk genoeg was. Wat ik vooral uit deze opdracht heb meegenomen, is dat een mooie website niet automatisch een goede website is. Ik moet ook rekening houden met hoe de website werkt op verschillende schermformaten, hoe toegankelijk deze is en hoe de gebruiker ermee kan omgaan. Voor mijn eigen Digital Garden wil ik juist experimenteren met kleuren, typografie, animaties en kleine interacties. Ik vind het belangrijk dat mijn website een eigen uitstraling krijgt die bij mij past, maar tegelijkertijd ook duidelijk en gebruiksvriendelijk blijft.
+
+<p> <strong> Opdracht 2: Eigen verkenning </strong> </p>
 
 Wat wil ik zelf maken?
+
 Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de websites merkte ik dat ik vooral hou van websites die simpel zijn, maar toch iets unieks hebben. Bij de eerste website vond ik vooral de animaties en hover effecten leuk. Bij de tweede website miste ik juist wat creativiteit en een eigen stijl.
 
 Ik wil zelf een website maken die overzichtelijk is, maar niet saai. Waar je ook een beetje kan spelen en dingen kan ontdekken.
