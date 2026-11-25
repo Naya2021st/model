@@ -106,8 +106,7 @@ Ik wil hier mijn eigen interesses, creativiteit en persoonlijke stijl in verwerk
 </details>
 
 <details>
-<summary> <h2>  Week 1 </h2> </summary>
-<h2> Week 2 </h2>
+<summary> <h2>  Week 2 </h2> </summary>
 
  </details>
  </details>
