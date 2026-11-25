@@ -32,6 +32,10 @@ Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schet
 Helaas kon ik deze les niet bijwonen omdat ik ziek was. Ik heb daarom dezelfde dag thuis de lesstof doorgenomen en de oefeningen ingehaald.
 Zelf vind ik coderen best leuk om te doen. Op de middelbare school heb ik ook informatica gevolgd, waardoor ik al wat basiskennis heb. Wel merk ik dat ik sommige dingen ben vergeten, dus deze oefeningen waren voor mij ook een goede opfrisser. Wat voor mij nieuw was, is het gebruik van custom properties. Ik vind het vooral handig dat je bijvoorbeeld een kleur of witruimte maar op een plek hoeft aan te passen in plaats van overal in je code. Verder heb ik meer geleerd over hover en focus states en hoe ik hiermee mijn website toegankelijker kan maken. Wat ik zelf leuk vind aan CSS is dat je direct resultaat ziet van wat je aanpast. Ik kijk er dan ook naar uit om hier meer mee te experimenteren binnen mijn eigen Digital Garden.
 
+<p> <strong>Practicum CSS fonts </strong> </p>
+
+Tijdens deze opdracht heb ik de kennis uit de lessen toegepast door een mini poster na te maken met CSS. Een aantal codes, zoals font-family, font-size en background-color, waren voor mij al bekend. Wat voor mij wel nieuw was, was het gebruik van text shadow. Ik wist namelijk niet dat je met dezelfde kleur voor de tekst en de achtergrond alsnog een diepte effect kon creëren door alleen schaduw toe te voegen. Verder heb ik geleerd dat ik met tekst transform mijn tekst in hoofdletters kan weergeven zonder iets in mijn HTML te hoeven veranderen. Ik vond dit persoonlijk een leuke opdracht, omdat ik zowel visueel ontwerpen als coderen interessant vind. Normaal gesproken zou ik zulke effecten eerder in figma of Illustrator maken, maar ik vind het juist leuk om te ontdekken dat dit ook mogelijk is met een paar regels CSS. Dit zijn ook technieken waarmee ik verder wil experimenteren binnen mijn eigen Digital Garden.
+
 </details>
 <details>
 <Summary> <h1> Sprint 1</h1> </summary>
