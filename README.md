@@ -52,16 +52,18 @@ Tijdens deze les zijn we begonnen met het bekijken en analyseren van bestaande w
 
 Wat wil ik zelf maken?
 
-Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de websites merkte ik dat ik vooral hou van websites die simpel zijn, maar toch iets unieks hebben. Bij de eerste website vond ik vooral de animaties en hover effecten leuk. Bij de tweede website miste ik juist wat creativiteit en een eigen stijl.
-
-Ik wil zelf een website maken die overzichtelijk is, maar niet saai. Waar je ook een beetje kan spelen en dingen kan ontdekken.
+Ik wil een Digital Garden maken die echt bij mij past. Tijdens het bekijken van de websites merkte ik dat ik vooral hou van websites die simpel zijn, maar toch iets unieks hebben. Bij de eerste website vond ik vooral de animaties en hover effecten leuk. Bij de tweede website miste ik juist wat creativiteit en een eigen stijl.Ik wil zelf een website maken die overzichtelijk is, maar niet saai. Waar je ook een beetje kan spelen en dingen kan ontdekken.
 
 Welke webby dingen wil ik gebruiken?
 
 -Hover effecten bij knoppen en afbeeldingen.
+
 -Animaties tijdens het scrollen.
+
 -Verschillende kleuren en typografie.
+
 -Een duidelijke indeling.
+
 -Interactieve elementen waar je op kan klikken.
 
 Eigen content, toon en doel
