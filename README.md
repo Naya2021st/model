@@ -2,7 +2,7 @@
 
 <h2> Sprint 0 </h2>
 
-<bold> Maandag Kickoff: </bold>
+<p> Maandag Kickoff: </p>
 
 Tijdens de kickoff hebben we uitleg gekregen over wat dit blok inhoudt, wat we gaan doen en wat we de komende weken kunnen verwachten. In dit blok gaan we onze eigen Digital Garden maken en deze steeds verder ontwikkelen door de kennis die we tijdens de lessen opdoen toe te passen. Verder hebben we een HWIVI zelftest gemaakt om onze kennis van de afgelopen blokken van vorig jaar op te frissen. Uit deze test bleek dat ik nog best veel termen herkende en had onthouden. Hier was ik positief over, omdat ik van tevoren niet wist hoeveel ik nog zou weten. In de middag hebben we een GitHub account aangemaakt, Visual Studio Code geïnstalleerd en een eigen domeinnaam aangeschaft via TransIP. Ik heb ervoor gekozen om mijn website naya404.nl te noemen. Vervolgens hebben we de dag afgesloten met een aantal check outvragen.
 
