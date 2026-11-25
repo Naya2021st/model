@@ -25,6 +25,11 @@ Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefris
 
 Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schetsen. We zijn begonnen met de basis, waarbij we hebben geoefend met het tekenen van rechte lijnen, vierkanten in verschillende groottes en telefoons op ware grootte. Verder hebben we het verschil tussen low-fi, mi-fi en hi-fi schetsen behandeld. Wat ik hierbij heb geleerd, is hoe ik door middel van verschillende lijndiktes, schaduwen en accenten bepaalde elementen meer kan laten opvallen in mijn schetsen. Vervolgens kregen we de opdracht om een mi-fi schets te maken van een website die we vaak gebruiken. Ik heb hiervoor gekozen voor Bol.Com. Tijdens het schetsen heb ik geprobeerd om de technieken die we eerder in de les hebben behandeld toe te passen. Verder hebben we uitleg gekregen over hoe we animaties en interacties op papier kunnen weergeven door gebruik te maken van pijlen, stippellijnen en annotaties. Wat ik vooral uit deze les heb meegenomen, is dat een schets niet altijd perfect hoeft te zijn en dat ik niet meteen bezig hoef te zijn met alle kleine details. Het belangrijkste is dat mijn idee duidelijk overkomt. Deze technieken kan ik straks ook toepassen bij het schetsen van mijn eigen Digital Garden.
 
+   <p> <strong> Practicum CSS </strong> </p>
+
+Helaas kon ik deze les niet bijwonen omdat ik ziek was. Ik heb daarom dezelfde dag thuis de lesstof doorgenomen en de oefeningen ingehaald.
+Zelf vind ik coderen best leuk om te doen. Op de middelbare school heb ik ook informatica gevolgd, waardoor ik al wat basiskennis heb. Wel merk ik dat ik sommige dingen ben vergeten, dus deze oefeningen waren voor mij ook een goede opfrisser. Wat voor mij nieuw was, is het gebruik van custom properties. Ik vind het vooral handig dat je bijvoorbeeld een kleur of witruimte maar op een plek hoeft aan te passen in plaats van overal in je code. Verder heb ik meer geleerd over hover en focus states en hoe ik hiermee mijn website toegankelijker kan maken. Wat ik zelf leuk vind aan CSS is dat je direct resultaat ziet van wat je aanpast. Ik kijk er dan ook naar uit om hier meer mee te experimenteren binnen mijn eigen Digital Garden.
+
 </details>
 <details>
 <Summary> <h1> Sprint 1</h1> </summary>
