@@ -1,7 +1,5 @@
 <details>
-<summary> <h1> Week 1: </h1> </summary>
-
-<h2> Sprint 0 </h2>
+<summary> <h1> Sprint 0 </h1> </summary>
 
 <h3> Maandag Kickoff: </h3>
 
@@ -28,6 +26,10 @@ Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefris
 Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schetsen. We zijn begonnen met de basis, waarbij we hebben geoefend met het tekenen van rechte lijnen, vierkanten in verschillende groottes en telefoons op ware grootte. Verder hebben we het verschil tussen low-fi, mi-fi en hi-fi schetsen behandeld. Wat ik hierbij heb geleerd, is hoe ik door middel van verschillende lijndiktes, schaduwen en accenten bepaalde elementen meer kan laten opvallen in mijn schetsen. Vervolgens kregen we de opdracht om een mi-fi schets te maken van een website die we vaak gebruiken. Ik heb hiervoor gekozen voor Bol.Com. Tijdens het schetsen heb ik geprobeerd om de technieken die we eerder in de les hebben behandeld toe te passen. Verder hebben we uitleg gekregen over hoe we animaties en interacties op papier kunnen weergeven door gebruik te maken van pijlen, stippellijnen en annotaties. Wat ik vooral uit deze les heb meegenomen, is dat een schets niet altijd perfect hoeft te zijn en dat ik niet meteen bezig hoef te zijn met alle kleine details. Het belangrijkste is dat mijn idee duidelijk overkomt. Deze technieken kan ik straks ook toepassen bij het schetsen van mijn eigen Digital Garden.
 
 </details>
+<details>
+<Summary> <h1> Sprint 1</h1> </summary>
+
+<h2> Week 1 </h2>
 
 Sprint 1: Maandag 16/11
 
@@ -86,4 +88,4 @@ My Research – Antwoorden op de vijf onderzoeksvragen.
 Web Inspiration – Websites, animaties en interacties die je wilt gebruiken.
 My Direction – Wat je uiteindelijk wilt maken voor je Digital Garden.
 
-hey brdebkjhek
+ </details>
