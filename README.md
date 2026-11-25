@@ -1,6 +1,19 @@
-Week 1: Sprint 0:
+<h1> Week 1: </h1>
 
-Op maandag hebben we de kick off gekregen en github gedownload
+<h2> Sprint 0 </h2>
+
+<bold> Maandag Kick-off: </bold>
+
+Tijdens de kick-off hebben we uitleg gekregen over wat dit blok inhoudt, wat we gaan doen en wat we de komende weken kunnen verwachten. In dit blok gaan we onze eigen Digital Garden maken en deze steeds verder ontwikkelen door de kennis die we tijdens de lessen opdoen toe te passen. Verder hebben we een HWIVI zelftest gemaakt om onze kennis van de afgelopen blokken van vorig jaar op te frissen. Uit deze test bleek dat ik nog best veel termen herkende en had onthouden. Hier was ik positief over, omdat ik van tevoren niet wist hoeveel ik nog zou weten. In de middag hebben we een GitHub account aangemaakt, Visual Studio Code geïnstalleerd en een eigen domeinnaam aangeschaft via TransIP. Ik heb ervoor gekozen om mijn website naya404.nl te noemen. Vervolgens hebben we de dag afgesloten met een aantal check outvragen.
+
+Check outvragen:
+
+1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt?
+   Een source hosting platform is een online platform waarop je je code en bestanden kunt opslaan, beheren en bijhouden. Je kunt ook terugzien welke aanpassingen je hebt gemaakt en eventueel teruggaan naar een eerdere versie van je code. Ik heb gekozen voor GitHub. Hier ga ik de code van mijn Digital Garden opslaan en mijn logboek bijhouden.
+2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina?
+   Ik heb gekozen voor de domeinnaam naya404.nl. Deze heb ik aangeschaft via TransIP. Door de DNS instellingen van mijn domeinnaam aan te passen en mijn domeinnaam te koppelen aan GitHub Pages, kan mijn website via mijn eigen domeinnaam bezocht worden.
+3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je ervoor zorgt dat die op het web gepubliceerd worden?
+   Ik kan aanpassingen aan mijn website maken in Visual Studio Code. Met HTML kan ik de structuur en de content van mijn website bepalen en met CSS kan ik mijn website de gewenste stijl geven, zoals kleuren, lettertypes en de indeling. Wanneer ik een aanpassing heb gemaakt, sla ik deze op en zet ik de wijzigingen door naar GitHub door middel van een commit en een push. Via GitHub Pages worden de wijzigingen vervolgens gepubliceerd op mijn eigen website.
 
 Sprint 1: Maandag 16/11
 
@@ -59,4 +72,4 @@ My Research – Antwoorden op de vijf onderzoeksvragen.
 Web Inspiration – Websites, animaties en interacties die je wilt gebruiken.
 My Direction – Wat je uiteindelijk wilt maken voor je Digital Garden.
 
-hey
+hey brdebkjhek
