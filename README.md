@@ -17,8 +17,14 @@ Check outvragen:
 
    <h3> Woensdag 11/11: </h3>
 
+   <p> Interactie</p>
+
    Deep Dive Interactie (MMD, micro interacties en forms)
    Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefrist. Hierbij zijn de vijf principes affordance, feedback, feedforward, cue en prompt aan bod gekomen. Verder heb ik geleerd hoe kleine interacties, zoals hover effecten, kleurveranderingen en animaties, de gebruiker kunnen helpen tijdens het navigeren op een website. Vervolgens kregen we de opdracht om de fysieke menukaart van Wok to Walk te vertalen naar een bruikbaar online formulier. Hiervoor heb ik twee verschillende schetsen gemaakt. Bij mijn eerste schets heb ik het bestelproces verdeeld in drie stappen: het kiezen van een basis, toppings en saus. Hierbij heb ik gebruikgemaakt van tabs, swipe interacties, dropdownmenu's en primary buttons. Bij mijn tweede schets heb ik geprobeerd om alle stappen op een scherm te verwerken. Wat ik vooral uit deze opdracht heb meegenomen, is dat ik niet alleen moet nadenken over hoe iets er visueel uitziet, maar ook over hoe de gebruiker ermee omgaat. Bijvoorbeeld door een geselecteerde optie een andere kleur te geven (feedback) of door met cijfers aan te geven bij welke stap de gebruiker is (cue). Deze kennis wil ik ook meenemen tijdens het ontwerpen van mijn eigen Digital Garden, door kleine interacties toe te voegen die niet alleen leuk zijn, maar ook daadwerkelijk een functie hebben.
+
+   <p> Practicum animatie</p>
+
+Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schetsen. We zijn begonnen met de basis, waarbij we hebben geoefend met het tekenen van rechte lijnen, vierkanten in verschillende groottes en telefoons op ware grootte. Verder hebben we het verschil tussen low-fi, mi-fi en hi-fi schetsen behandeld. Wat ik hierbij heb geleerd, is hoe ik door middel van verschillende lijndiktes, schaduwen en accenten bepaalde elementen meer kan laten opvallen in mijn schetsen. Vervolgens kregen we de opdracht om een mi-fi schets te maken van een website die we vaak gebruiken. Ik heb hiervoor gekozen voor Bol.Com. Tijdens het schetsen heb ik geprobeerd om de technieken die we eerder in de les hebben behandeld toe te passen. Verder hebben we uitleg gekregen over hoe we animaties en interacties op papier kunnen weergeven door gebruik te maken van pijlen, stippellijnen en annotaties. Wat ik vooral uit deze les heb meegenomen, is dat een schets niet altijd perfect hoeft te zijn en dat ik niet meteen bezig hoef te zijn met alle kleine details. Het belangrijkste is dat mijn idee duidelijk overkomt. Deze technieken kan ik straks ook toepassen bij het schetsen van mijn eigen Digital Garden.
 
 Sprint 1: Maandag 16/11
 
