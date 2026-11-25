@@ -99,6 +99,6 @@ My Research – Antwoorden op de vijf onderzoeksvragen.
 Web Inspiration – Websites, animaties en interacties die je wilt gebruiken.
 My Direction – Wat je uiteindelijk wilt maken voor je Digital Garden.
 
-<h2> Week 1 </h2>
+<h2> Week 2 </h2>
 
  </details>
