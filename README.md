@@ -2,9 +2,9 @@
 
 <h2> Sprint 0 </h2>
 
-<bold> Maandag Kick-off: </bold>
+<bold> Maandag Kickoff: </bold>
 
-Tijdens de kick-off hebben we uitleg gekregen over wat dit blok inhoudt, wat we gaan doen en wat we de komende weken kunnen verwachten. In dit blok gaan we onze eigen Digital Garden maken en deze steeds verder ontwikkelen door de kennis die we tijdens de lessen opdoen toe te passen. Verder hebben we een HWIVI zelftest gemaakt om onze kennis van de afgelopen blokken van vorig jaar op te frissen. Uit deze test bleek dat ik nog best veel termen herkende en had onthouden. Hier was ik positief over, omdat ik van tevoren niet wist hoeveel ik nog zou weten. In de middag hebben we een GitHub account aangemaakt, Visual Studio Code geïnstalleerd en een eigen domeinnaam aangeschaft via TransIP. Ik heb ervoor gekozen om mijn website naya404.nl te noemen. Vervolgens hebben we de dag afgesloten met een aantal check outvragen.
+Tijdens de kickoff hebben we uitleg gekregen over wat dit blok inhoudt, wat we gaan doen en wat we de komende weken kunnen verwachten. In dit blok gaan we onze eigen Digital Garden maken en deze steeds verder ontwikkelen door de kennis die we tijdens de lessen opdoen toe te passen. Verder hebben we een HWIVI zelftest gemaakt om onze kennis van de afgelopen blokken van vorig jaar op te frissen. Uit deze test bleek dat ik nog best veel termen herkende en had onthouden. Hier was ik positief over, omdat ik van tevoren niet wist hoeveel ik nog zou weten. In de middag hebben we een GitHub account aangemaakt, Visual Studio Code geïnstalleerd en een eigen domeinnaam aangeschaft via TransIP. Ik heb ervoor gekozen om mijn website naya404.nl te noemen. Vervolgens hebben we de dag afgesloten met een aantal check outvragen.
 
 Check outvragen:
 
@@ -14,6 +14,12 @@ Check outvragen:
    Ik heb gekozen voor de domeinnaam naya404.nl. Deze heb ik aangeschaft via TransIP. Door de DNS instellingen van mijn domeinnaam aan te passen en mijn domeinnaam te koppelen aan GitHub Pages, kan mijn website via mijn eigen domeinnaam bezocht worden.
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je ervoor zorgt dat die op het web gepubliceerd worden?
    Ik kan aanpassingen aan mijn website maken in Visual Studio Code. Met HTML kan ik de structuur en de content van mijn website bepalen en met CSS kan ik mijn website de gewenste stijl geven, zoals kleuren, lettertypes en de indeling. Wanneer ik een aanpassing heb gemaakt, sla ik deze op en zet ik de wijzigingen door naar GitHub door middel van een commit en een push. Via GitHub Pages worden de wijzigingen vervolgens gepubliceerd op mijn eigen website.
+
+   <bold> Woensdag 11/11: </bold>
+
+   Deep Dive Interactie (MMD, micro interacties en forms)
+   Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefrist. Hierbij zijn de vijf principes affordance, feedback, feedforward, cue en prompt aan bod gekomen. Verder heb ik geleerd hoe kleine interacties, zoals hover effecten, kleurveranderingen en animaties, de gebruiker kunnen helpen tijdens het navigeren op een website. Vervolgens kregen we de opdracht om de fysieke menukaart van Wok to Walk te vertalen naar een bruikbaar online formulier. Hiervoor heb ik twee verschillende schetsen gemaakt. Bij mijn eerste schets heb ik het bestelproces verdeeld in drie stappen: het kiezen van een basis, toppings en saus. Hierbij heb ik gebruikgemaakt van tabs, swipe interacties, dropdownmenu's en primary buttons. Bij mijn tweede schets heb ik geprobeerd om alle stappen op een scherm te verwerken.
+   Wat ik vooral uit deze opdracht heb meegenomen, is dat ik niet alleen moet nadenken over hoe iets er visueel uitziet, maar ook over hoe de gebruiker ermee omgaat. Bijvoorbeeld door een geselecteerde optie een andere kleur te geven (feedback) of door met cijfers aan te geven bij welke stap de gebruiker is (cue). Deze kennis wil ik ook meenemen tijdens het ontwerpen van mijn eigen Digital Garden, door kleine interacties toe te voegen die niet alleen leuk zijn, maar ook daadwerkelijk een functie hebben.
 
 Sprint 1: Maandag 16/11
 
