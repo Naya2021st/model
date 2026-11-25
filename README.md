@@ -14,20 +14,20 @@ Check outvragen:
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je ervoor zorgt dat die op het web gepubliceerd worden?
    Ik kan aanpassingen aan mijn website maken in Visual Studio Code. Met HTML kan ik de structuur en de content van mijn website bepalen en met CSS kan ik mijn website de gewenste stijl geven, zoals kleuren, lettertypes en de indeling. Wanneer ik een aanpassing heb gemaakt, sla ik deze op en zet ik de wijzigingen door naar GitHub door middel van een commit en een push. Via GitHub Pages worden de wijzigingen vervolgens gepubliceerd op mijn eigen website.
 
-   <h3> Woensdag 11/11: </h3>
+<h3> Woensdag 11/11: </h3>
 
-   <p> <strong> Interactie </strong> </p>
+<p> <strong> Interactie </strong> </p>
 
 Deep Dive Interactie (MMD, micro interacties en forms)
 Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefrist. Hierbij zijn de vijf principes affordance, feedback, feedforward, cue en prompt aan bod gekomen. Verder heb ik geleerd hoe kleine interacties, zoals hover effecten, kleurveranderingen en animaties, de gebruiker kunnen helpen tijdens het navigeren op een website. Vervolgens kregen we de opdracht om de fysieke menukaart van Wok to Walk te vertalen naar een bruikbaar online formulier. Hiervoor heb ik twee verschillende schetsen gemaakt. Bij mijn eerste schets heb ik het bestelproces verdeeld in drie stappen: het kiezen van een basis, toppings en saus. Hierbij heb ik gebruikgemaakt van tabs, swipe interacties, dropdownmenu's en primary buttons. Bij mijn tweede schets heb ik geprobeerd om alle stappen op een scherm te verwerken. Wat ik vooral uit deze opdracht heb meegenomen, is dat ik niet alleen moet nadenken over hoe iets er visueel uitziet, maar ook over hoe de gebruiker ermee omgaat. Bijvoorbeeld door een geselecteerde optie een andere kleur te geven (feedback) of door met cijfers aan te geven bij welke stap de gebruiker is (cue). Deze kennis wil ik ook meenemen tijdens het ontwerpen van mijn eigen Digital Garden, door kleine interacties toe te voegen die niet alleen leuk zijn, maar ook daadwerkelijk een functie hebben.
 
-   <p> <strong> Practicum animatie </strong> </p>
+<p> <strong> Practicum animatie </strong> </p>
 
 Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schetsen. We zijn begonnen met de basis, waarbij we hebben geoefend met het tekenen van rechte lijnen, vierkanten in verschillende groottes en telefoons op ware grootte. Verder hebben we het verschil tussen low-fi, mi-fi en hi-fi schetsen behandeld. Wat ik hierbij heb geleerd, is hoe ik door middel van verschillende lijndiktes, schaduwen en accenten bepaalde elementen meer kan laten opvallen in mijn schetsen. Vervolgens kregen we de opdracht om een mi-fi schets te maken van een website die we vaak gebruiken. Ik heb hiervoor gekozen voor Bol.Com. Tijdens het schetsen heb ik geprobeerd om de technieken die we eerder in de les hebben behandeld toe te passen. Verder hebben we uitleg gekregen over hoe we animaties en interacties op papier kunnen weergeven door gebruik te maken van pijlen, stippellijnen en annotaties. Wat ik vooral uit deze les heb meegenomen, is dat een schets niet altijd perfect hoeft te zijn en dat ik niet meteen bezig hoef te zijn met alle kleine details. Het belangrijkste is dat mijn idee duidelijk overkomt. Deze technieken kan ik straks ook toepassen bij het schetsen van mijn eigen Digital Garden.
 
-   <h3> Vrijdag 13/11: </h3>
+<h3> Vrijdag 13/11: </h3>
 
-   <p> <strong> Practicum CSS </strong> </p>
+<p> <strong> Practicum CSS </strong> </p>
 
 Helaas kon ik deze les niet bijwonen omdat ik ziek was. Ik heb daarom dezelfde dag thuis de lesstof doorgenomen en de oefeningen ingehaald.
 Zelf vind ik coderen best leuk om te doen. Op de middelbare school heb ik ook informatica gevolgd, waardoor ik al wat basiskennis heb. Wel merk ik dat ik sommige dingen ben vergeten, dus deze oefeningen waren voor mij ook een goede opfrisser. Wat voor mij nieuw was, is het gebruik van custom properties. Ik vind het vooral handig dat je bijvoorbeeld een kleur of witruimte maar op een plek hoeft aan te passen in plaats van overal in je code. Verder heb ik meer geleerd over hover en focus states en hoe ik hiermee mijn website toegankelijker kan maken. Wat ik zelf leuk vind aan CSS is dat je direct resultaat ziet van wat je aanpast. Ik kijk er dan ook naar uit om hier meer mee te experimenteren binnen mijn eigen Digital Garden.
