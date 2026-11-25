@@ -17,7 +17,7 @@ Check outvragen:
 
    <h3> Woensdag 11/11: </h3>
 
-   <p> Interactie</p>
+   <p> <strong> Interactie </strong> </p>
 
    Deep Dive Interactie (MMD, micro interacties en forms)
    Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefrist. Hierbij zijn de vijf principes affordance, feedback, feedforward, cue en prompt aan bod gekomen. Verder heb ik geleerd hoe kleine interacties, zoals hover effecten, kleurveranderingen en animaties, de gebruiker kunnen helpen tijdens het navigeren op een website. Vervolgens kregen we de opdracht om de fysieke menukaart van Wok to Walk te vertalen naar een bruikbaar online formulier. Hiervoor heb ik twee verschillende schetsen gemaakt. Bij mijn eerste schets heb ik het bestelproces verdeeld in drie stappen: het kiezen van een basis, toppings en saus. Hierbij heb ik gebruikgemaakt van tabs, swipe interacties, dropdownmenu's en primary buttons. Bij mijn tweede schets heb ik geprobeerd om alle stappen op een scherm te verwerken. Wat ik vooral uit deze opdracht heb meegenomen, is dat ik niet alleen moet nadenken over hoe iets er visueel uitziet, maar ook over hoe de gebruiker ermee omgaat. Bijvoorbeeld door een geselecteerde optie een andere kleur te geven (feedback) of door met cijfers aan te geven bij welke stap de gebruiker is (cue). Deze kennis wil ik ook meenemen tijdens het ontwerpen van mijn eigen Digital Garden, door kleine interacties toe te voegen die niet alleen leuk zijn, maar ook daadwerkelijk een functie hebben.
