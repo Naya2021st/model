@@ -5,7 +5,7 @@
 
 Tijdens de kickoff hebben we uitleg gekregen over wat dit blok inhoudt, wat we gaan doen en wat we de komende weken kunnen verwachten. In dit blok gaan we onze eigen Digital Garden maken en deze steeds verder ontwikkelen door de kennis die we tijdens de lessen opdoen toe te passen. Verder hebben we een HWIVI zelftest gemaakt om onze kennis van de afgelopen blokken van vorig jaar op te frissen. Uit deze test bleek dat ik nog best veel termen herkende en had onthouden. Hier was ik positief over, omdat ik van tevoren niet wist hoeveel ik nog zou weten. In de middag hebben we een GitHub account aangemaakt, Visual Studio Code geïnstalleerd en een eigen domeinnaam aangeschaft via TransIP. Ik heb ervoor gekozen om mijn website naya404.nl te noemen. Vervolgens hebben we de dag afgesloten met een aantal check outvragen.
 
-Check outvragen:
+<strong> Check outvragen: </strong>
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt?
    Een source hosting platform is een online platform waarop je je code en bestanden kunt opslaan, beheren en bijhouden. Je kunt ook terugzien welke aanpassingen je hebt gemaakt en eventueel teruggaan naar een eerdere versie van je code. Ik heb gekozen voor GitHub. Hier ga ik de code van mijn Digital Garden opslaan en mijn logboek bijhouden.
