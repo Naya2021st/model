@@ -40,7 +40,8 @@ Tijdens deze opdracht heb ik de kennis uit de lessen toegepast door een mini pos
 <details>
 <Summary> <h1> Sprint 1</h1> </summary>
 
-<h2> Week 1 </h2>
+<details>
+<summary> <h2>  Week 1 </h2> </summary>
 
 <h3> Maandag 16/11 </h3>
 
@@ -103,5 +104,5 @@ Mijn eerste idee is om een persoonlijk portfolio te maken in de stijl van een bo
 Ik wil hier mijn eigen interesses, creativiteit en persoonlijke stijl in verwerken. Dit is voor nu mijn eerste idee, maar ik sta er ook voor open om tijdens het blok een andere richting op te gaan als ik iets tegenkom wat mij meer aanspreekt.
 
 <h2> Week 2 </h2>
-
+</details>
  </details>
