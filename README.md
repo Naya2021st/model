@@ -4,6 +4,7 @@
 <h3> Maandag Kickoff: </h3>
 
 Tijdens de kickoff hebben we uitleg gekregen over wat dit blok inhoudt, wat we gaan doen en wat we de komende weken kunnen verwachten. In dit blok gaan we onze eigen Digital Garden maken en deze steeds verder ontwikkelen door de kennis die we tijdens de lessen opdoen toe te passen. Verder hebben we een HWIVI zelftest gemaakt om onze kennis van de afgelopen blokken van vorig jaar op te frissen. Uit deze test bleek dat ik nog best veel termen herkende en had onthouden. Hier was ik positief over, omdat ik van tevoren niet wist hoeveel ik nog zou weten. In de middag hebben we een GitHub account aangemaakt, Visual Studio Code geïnstalleerd en een eigen domeinnaam aangeschaft via TransIP. Ik heb ervoor gekozen om mijn website naya404.nl te noemen. Vervolgens hebben we de dag afgesloten met een aantal check outvragen.
+
 <img src="./readme-images/HWIVI.jpg" alt="HWIVI zelftest" width="400">
 
 <strong> Check outvragen: </strong>
@@ -25,6 +26,7 @@ Tijdens deze Deep Dive heb ik mijn kennis over Multi Modal Design (MMD) opgefris
 <p> <strong> Practicum animatie </strong> </p>
 
 Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schetsen. We zijn begonnen met de basis, waarbij we hebben geoefend met het tekenen van rechte lijnen, vierkanten in verschillende groottes en telefoons op ware grootte. Verder hebben we het verschil tussen low-fi, mi-fi en hi-fi schetsen behandeld. Wat ik hierbij heb geleerd, is hoe ik door middel van verschillende lijndiktes, schaduwen en accenten bepaalde elementen meer kan laten opvallen in mijn schetsen. Vervolgens kregen we de opdracht om een mi-fi schets te maken van een website die we vaak gebruiken. Ik heb hiervoor gekozen voor Bol.Com. Tijdens het schetsen heb ik geprobeerd om de technieken die we eerder in de les hebben behandeld toe te passen. Verder hebben we uitleg gekregen over hoe we animaties en interacties op papier kunnen weergeven door gebruik te maken van pijlen, stippellijnen en annotaties. Wat ik vooral uit deze les heb meegenomen, is dat een schets niet altijd perfect hoeft te zijn en dat ik niet meteen bezig hoef te zijn met alle kleine details. Het belangrijkste is dat mijn idee duidelijk overkomt. Deze technieken kan ik straks ook toepassen bij het schetsen van mijn eigen Digital Garden.
+
 <img src="./readme-images/bol.JPG" alt="Bol.com schets" width="300">
 <img src="./readme-images/lijnenw1.JPG" alt="Oefening lijnen tekenen" width="300">
 <img src="./readme-images/rechth.JPG" alt="Oefening rechthoeken tekenen" width="300">
@@ -36,6 +38,7 @@ Tijdens deze les hebben we uitleg gekregen over verschillende manieren van schet
 
 Helaas kon ik deze les niet bijwonen omdat ik ziek was. Ik heb daarom dezelfde dag thuis de lesstof doorgenomen en de oefeningen ingehaald.
 Zelf vind ik coderen best leuk om te doen. Op de middelbare school heb ik ook informatica gevolgd, waardoor ik al wat basiskennis heb. Wel merk ik dat ik sommige dingen ben vergeten, dus deze oefeningen waren voor mij ook een goede opfrisser. Wat voor mij nieuw was, is het gebruik van custom properties. Ik vind het vooral handig dat je bijvoorbeeld een kleur of witruimte maar op een plek hoeft aan te passen in plaats van overal in je code. Verder heb ik meer geleerd over hover en focus states en hoe ik hiermee mijn website toegankelijker kan maken. Wat ik zelf leuk vind aan CSS is dat je direct resultaat ziet van wat je aanpast. Ik kijk er dan ook naar uit om hier meer mee te experimenteren binnen mijn eigen Digital Garden.
+
 <img src="./readme-images/s0.png" alt="Practicum CSS" width="400">
 
 <p> <strong>Practicum CSS fonts </strong> </p>
@@ -54,6 +57,7 @@ Tijdens deze opdracht heb ik de kennis uit de lessen toegepast door een mini pos
 <p> <strong> Opdracht 1: Rangschikken </strong> </p>
 
 Tijdens deze les zijn we begonnen met het bekijken en analyseren van bestaande websites om inspiratie op te doen voor onze eigen Digital Garden. Ik heb twee websites geanalyseerd, namelijk annaecook.com en mikemai.net. Hierbij heb ik gekeken naar hoe webby de websites zijn op basis van toegankelijkheid, interactie, expressiviteit, adaptiviteit en originaliteit. Persoonlijk sprak de website van Anna mij meer aan. Ondanks dat de website vrij simpel is, heeft het wel een eigen uitstraling. Er wordt veel gespeeld met hover effecten en animaties, zonder dat de website onoverzichtelijk wordt. De website van Mike Mai vond ik daarentegen minder interessant, omdat ik weinig interacties zag en de visuele hiërarchie voor mij niet duidelijk genoeg was. Wat ik vooral uit deze opdracht heb meegenomen, is dat een mooie website niet automatisch een goede website is. Ik moet ook rekening houden met hoe de website werkt op verschillende schermformaten, hoe toegankelijk deze is en hoe de gebruiker ermee kan omgaan. Voor mijn eigen Digital Garden wil ik juist experimenteren met kleuren, typografie, animaties en kleine interacties. Ik vind het belangrijk dat mijn website een eigen uitstraling krijgt die bij mij past, maar tegelijkertijd ook duidelijk en gebruiksvriendelijk blijft.
+
 <img src="./readme-images/webbyanalyseren.jpg" alt="Webby analyseren" width="400">
 
 <p> <strong> Opdracht 2: Eigen verkenning </strong> </p>
@@ -109,6 +113,20 @@ De website van Anna E. Cook inspireerde mij het meest, omdat zij ondanks een sim
 
 Mijn eerste idee is om een persoonlijk portfolio te maken in de stijl van een boek. Ik vind het interessant om te onderzoeken hoe ik de ervaring van een fysiek boek kan vertalen naar het web. Bijvoorbeeld door animaties toe te voegen waarmee je digitaal door de pagina's kan bladeren.
 Ik wil hier mijn eigen interesses, creativiteit en persoonlijke stijl in verwerken. Dit is voor nu mijn eerste idee, maar ik sta er ook voor open om tijdens het blok een andere richting op te gaan als ik iets tegenkom wat mij meer aanspreekt.
+
+<p><strong> Crazy 8</strong></p>
+
+Mijn eerste idee voor mijn Digital Garden was om een persoonlijk portfolio te maken in de stijl van een boek. Uiteindelijk heb ik ervoor gekozen om een andere richting op te gaan en mijn website te richten op een van mijn grootste hobby's, namelijk het maken van kaarsen. Ik wil geen webshop maken, maar een online showroom waar ik mijn zelfgemaakte kaarsen kan presenteren en meer kan vertellen over mijn collecties, geuren en ingrediënten. Door middel van de Crazy 8 methode heb ik acht verschillende ideeën geschetst. Hierbij heb ik vooral gekeken naar verschillende indelingen, hoe ik mijn foto's wil presenteren en welke leuke interacties ik kan toevoegen. Wat mij persoonlijk het meeste aanspreekt, is het idee om een kaars aan en uit te kunnen zetten. Hiermee wil ik de light en dark mode op een creatieve manier verwerken die ook echt bij mijn onderwerp past. Door deze schetsen te maken heb ik een beter beeld gekregen van hoe ik mijn showroom wil vormgeven en welke ideeën ik verder wil uitwerken.
+
+<img src="./readme-images/Crazy8.JPG" alt="Crazy 8 schetsen" width="400">
+
+<p><strong>Schermen schetsen</strong></p>
+
+Na het maken van de Crazy 8 ben ik verder gaan schetsen met de ideeën die mij het meeste aanspraken. Ik heb verschillende indelingen gemaakt om te kijken hoe ik mijn kaarsen het beste kan presenteren in mijn showroom. Ik heb ervoor gekozen om mijn kaarsen te verdelen in verschillende collecties, namelijk Ramadan, Kerst, Pasen en bloemen. Daarnaast wil ik een gedeelte waarin ik meer vertel over Naya's Candle en het maakproces van mijn kaarsen. Tijdens het schetsen heb ik ook de kennis uit de voorgaande lessen toegepast. Zo heb ik met verschillende kleuren aangegeven welke elementen klikbaar zijn, waar ik hover-effecten wil toevoegen en wat de knoppen zijn. Ook heb ik het idee van de kaars die je aan en uit kan zetten verder verwerkt in mijn navigatie. Ik heb voor nu nog niet te veel aandacht besteed aan de details en kleuren, omdat ik eerst tevreden wil zijn met de indeling voordat ik verder ga met de visuele uitwerking.
+
+<img src="./readme-images/mi-fi.jpg" alt="Mi-fi schets 1" width="400">
+<img src="./readme-images/mi-fi2.jpg" alt="Mi-fi schets 2" width="400">
+<img src="./readme-images/schets.JPG" alt="Ontwerpschets" width="400">
 
 </details>
 
