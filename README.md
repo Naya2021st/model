@@ -109,7 +109,11 @@ Op basis van mijn onderzoek en verzamelde inspiratie bepalen wat ik uiteindelijk
 Een Digital Garden is eigenlijk een eigen stukje op het web waar je als maker jouw gedachten, ideeën, interesses en inspiratie kwijt kan. Het is een eigen online ruimte die je helemaal naar jouw smaak kan inrichten en waarin je vrij bent om te experimenteren. Wat het anders maakt dan een reguliere website, is dat een Digital Garden nooit echt af hoeft te zijn. Je kan deze steeds verder ontwikkelen en nieuwe dingen blijven toevoegen. 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
 Voor mij is een website webby wanneer er echt gebruik wordt gemaakt van de mogelijkheden die het web biedt. Denk hierbij aan animaties, interacties, gradients, hover-effecten en het aanpassen aan verschillende schermformaten?
 
-De website van Anna E. Cook inspireerde mij het meest, omdat zij ondanks een simpele indeling toch een unieke en persoonlijke stijl heeft weten te creëren. Dat is ook iets wat ik zelf wil bereiken met mijn Digital Garden. 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen Digital Garden?
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+
+De website van Anna Cook inspireerde mij het meest, omdat zij ondanks een simpele indeling toch een unieke en persoonlijke stijl heeft weten te creëren. Dat is ook iets wat ik zelf wil bereiken met mijn Digital Garden. 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen Digital Garden?
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen Digital Garden.
 
 Mijn eerste idee is om een persoonlijk portfolio te maken in de stijl van een boek. Ik vind het interessant om te onderzoeken hoe ik de ervaring van een fysiek boek kan vertalen naar het web. Bijvoorbeeld door animaties toe te voegen waarmee je digitaal door de pagina's kan bladeren.
 Ik wil hier mijn eigen interesses, creativiteit en persoonlijke stijl in verwerken. Dit is voor nu mijn eerste idee, maar ik sta er ook voor open om tijdens het blok een andere richting op te gaan als ik iets tegenkom wat mij meer aanspreekt.
