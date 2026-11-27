@@ -163,12 +163,7 @@ h1 {
   height: auto;
   mask-image: radial-gradient(ellipse, black 35%, transparent 70%);
 }
-footer {
-  background-color: light-dark(var(--roze), var(--bruin));
-  text-align: center;
-  padding: 30px;
-  border-top: 1px solid;
-}
+
 @media (max-width: 1024px) {
   header {
     flex-wrap: wrap;
