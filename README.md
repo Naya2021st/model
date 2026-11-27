@@ -128,10 +128,20 @@ Na het maken van de Crazy 8 ben ik verder gaan schetsen met de ideeën die mij h
 <img src="./readme-images/mi-fi2.jpg" alt="Mi-fi schets 2" width="400">
 <img src="./readme-images/schets.JPG" alt="Ontwerpschets" width="400">
 
+<p><strong>Styleguide </strong></p>
+
+Voordat ik verder ben gegaan met coderen, heb ik een styleguide gemaakt om een duidelijk beeld te krijgen van de uitstraling van mijn showroom. Ik heb twee kleurenpaletten samengesteld, één voor de light mode en één voor de dark mode. Ik heb gekozen voor crème en donkerbruin als basiskleuren en roze, geel en groen als accentkleuren. Ik wil namelijk een warme uitstraling creëren, maar tegelijkertijd ook wat speelsheid toevoegen door middel van opvallende kleuren. Voor de typografie heb ik gekozen voor Playfair in Regular en Bold. Ik vind dit lettertype goed passen bij de uitstraling die ik met mijn kaarsen wil overbrengen. Verder heb ik mijn eigen foto's gebruikt voor de beeldtaal en nagedacht over de vormgeving van mijn knoppen en mogelijke animaties, zoals hover-effecten, fade-in en een candle glow-effect. Ook heb ik mijn idee om een kaars als light en dark mode-knop te gebruiken hierin verwerkt. Tijdens het coderen wil ik deze styleguide als uitgangspunt gebruiken, zodat ik consistent blijf in mijn ontwerp. Natuurlijk kunnen er nog dingen veranderen tijdens het coderen, omdat ik ook wil experimenteren met de mogelijkheden van CSS.
+
+<img src="./readme-images/styleguide.png" alt="Styleguide Naya's Candle" width="600">
+
 </details>
 
 <details>
 <summary> <h2>  Week 2 </h2> </summary>
+
+<p><strong>Coderen </strong></p>
+
+Na het maken van mijn schetsen ben ik in week 2 begonnen met het coderen van mijn website in Visual Studio Code. Ik heb hierbij mijn schetsen als uitgangspunt gebruikt en geprobeerd om zoveel mogelijk de kennis uit de voorgaande lessen toe te passen. Ik ben begonnen met het opzetten van de structuur in HTML en vervolgens ben ik met CSS aan de slag gegaan om mijn website de gewenste uitstraling te geven. Hierbij heb ik geëxperimenteerd met kleuren, lettertypes, afbeeldingen, gradients en hover effecten. Verder ben ik aan de slag gegaan met het responsive maken van mijn website en het verwerken van light en dark mode. Ik wil hierbij het idee van het aan- en uitzetten van een kaars behouden. Ik merk dat ik coderen steeds leuker begin te vinden, vooral omdat ik nu bezig ben met iets wat ik zelf heb bedacht en ontworpen. Ik probeer mijn codes zo simpel mogelijk te houden, zodat ik ook zelf begrijp wat ik aan het doen ben en later makkelijk aanpassingen kan maken.Tijdens het coderen merk ik ook dat niet alles wat ik heb geschetst even makkelijk te realiseren is. Hierdoor blijf ik experimenteren en pas ik tussendoor mijn ontwerp aan.
 
  </details>
  </details>
