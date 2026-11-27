@@ -143,5 +143,15 @@ Voordat ik verder ben gegaan met coderen, heb ik een styleguide gemaakt om een d
 
 Na het maken van mijn schetsen ben ik in week 2 begonnen met het coderen van mijn website in Visual Studio Code. Ik heb hierbij mijn schetsen als uitgangspunt gebruikt en geprobeerd om zoveel mogelijk de kennis uit de voorgaande lessen toe te passen. Ik ben begonnen met het opzetten van de structuur in HTML en vervolgens ben ik met CSS aan de slag gegaan om mijn website de gewenste uitstraling te geven. Hierbij heb ik geëxperimenteerd met kleuren, lettertypes, afbeeldingen, gradients en hover effecten. Verder ben ik aan de slag gegaan met het responsive maken van mijn website en het verwerken van light en dark mode. Ik wil hierbij het idee van het aan- en uitzetten van een kaars behouden. Ik merk dat ik coderen steeds leuker begin te vinden, vooral omdat ik nu bezig ben met iets wat ik zelf heb bedacht en ontworpen. Ik probeer mijn codes zo simpel mogelijk te houden, zodat ik ook zelf begrijp wat ik aan het doen ben en later makkelijk aanpassingen kan maken.Tijdens het coderen merk ik ook dat niet alles wat ik heb geschetst even makkelijk te realiseren is. Hierdoor blijf ik experimenteren en pas ik tussendoor mijn ontwerp aan.
 
+<img src="./readme-images/logodubbellight.png" alt="Logo light mode" width="400">
+<img src="./readme-images/logodubbeldark.png" alt="Logo dark mode" width="400">
+
+<p><strong>Iteratie </strong></p>
+
+Tijdens het coderen heb ik twee verschillende versies van mijn homepage gemaakt. Bij de eerste versie heb ik gekozen voor de titel ‘Mijn showroom van handgemaakte kaarsen’. Bij de tweede versie heb ik Naya's Candle als grote titel gebruikt, met daaronder een korte omschrijving van mijn showroom. Na het vergelijken van beide versies heb ik ervoor gekozen om Naya's Candle als grote titel weg te laten. De naam staat namelijk al linksboven in mijn navigatie, waardoor ik het onnodig vind om deze nog een keer zo groot te herhalen. Daarnaast vind ik de eerste versie sterker qua visuele hiërarchie. Het is voor de bezoeker meteen duidelijk waar mijn website over gaat en wat die kan verwachten. Ook blijft er meer ruimte over voor mijn collecties en afbeeldingen, waar ik juist de aandacht op wil leggen. Omdat ik een showroom wil maken en geen webshop, vind ik het belangrijker om mijn creaties centraal te stellen dan mijn merknaam. Persoonlijk vind ik de eerste versie daarom ook rustiger en overzichtelijker.
+
+<img src="./readme-images/onepagelight.png" alt="Onepager light mode" width="400">
+<img src="./readme-images/onepagerdark.png" alt="Onepager dark mode" width="400">
+
  </details>
  </details>
