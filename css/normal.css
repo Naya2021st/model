@@ -1,61 +1,234 @@
-/**************************
-* MARK: Fonts
-**************************/
+@font-face {
+  font-family: "Playfair";
+  src: url("../fonts/Playfair_9pt_SemiCondensed-Regular.ttf");
+  font-weight: 400;
+}
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
-  font-weight: 400;
-  font-style: normal;
+  font-family: "Playfair";
+  src: url("../fonts/Playfair_9pt_SemiCondensed-Bold.ttf");
+  font-weight: 700;
 }
-
-/**************************
-* MARK: Custom properties
-**************************/
-
-html {
+:root {
   color-scheme: light dark;
+
+  --bruin: #45200d;
+  --creme: #fff5dd;
+  --roze: #ffcbea;
+  --geel: #f8c22d;
+  --groen: #8bc019;
+  --wit: #ffffff;
 }
-
-/**************************
-* MARK: Algemene Styling
-**************************/
-
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
+html {
+  scroll-behavior: smooth;
 }
-
-img {
-  max-width: 100%;
-}
-
 body {
-  font-family: "Comic Relief", system-ui;
+  margin: 0;
+  font-family: "Playfair", serif;
+  background-color: light-dark(var(--creme), var(--bruin));
+  color: light-dark(var(--bruin), var(--creme));
 }
 
-/**************************
-* MARK: Header
-**************************/
-
+a {
+  color: inherit;
+}
 header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 5%;
 }
 
-/**************************
-* MARK: Footer
-**************************/
+header > a {
+  font-size: 24px;
+  font-weight: 700;
+  text-decoration: none;
+}
 
+nav ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  padding: 0;
+}
+
+nav a {
+  font-family: Arial, sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+#lichtknop {
+  position: absolute;
+  opacity: 0;
+}
+
+header label {
+  background-color: var(--geel);
+  color: var(--bruin);
+  border: 1px solid var(--bruin);
+  border-radius: 20px;
+  padding: 8px 15px;
+  cursor: pointer;
+}
+
+header label span:last-child {
+  display: none;
+}
+
+#lichtknop:checked + label span:first-child {
+  display: none;
+}
+
+#lichtknop:checked + label span:last-child {
+  display: inline;
+}
+
+:root:has(#lichtknop:checked) {
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  #lichtknop + label span:first-child {
+    display: none;
+  }
+
+  #lichtknop + label span:last-child {
+    display: inline;
+  }
+
+  #lichtknop:checked + label span:first-child {
+    display: inline;
+  }
+
+  #lichtknop:checked + label span:last-child {
+    display: none;
+  }
+
+  :root:has(#lichtknop:checked) {
+    color-scheme: light;
+  }
+}
+#home {
+  text-align: center;
+  padding: 30px 20px;
+}
+
+h1 {
+  font-size: 80px;
+  margin: 0;
+}
+
+.categorieen {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 20px;
+  list-style: none;
+  padding: 0;
+  margin-top: 40px;
+}
+
+.categorieen h2 {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.categorieen img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  transition: transform 0.3s;
+}
+
+.categorieen img:hover {
+  transform: scale(1.1);
+}
+.hoofdkaars {
+  background-color: var(--roze);
+  border-radius: 45% 55% 40% 60%;
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.hoofdkaars img {
+  width: 100%;
+  max-width: 850px;
+  height: auto;
+  mask-image: radial-gradient(ellipse, black 35%, transparent 70%);
+}
 footer {
+  background-color: light-dark(var(--roze), var(--bruin));
+  text-align: center;
+  padding: 30px;
+  border-top: 1px solid;
+}
+@media (max-width: 1024px) {
+  header {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  h1 {
+    font-size: 42px;
+  }
+
+  .categorieen img {
+    width: 130px;
+    height: 130px;
+  }
+}
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+  }
+
+  nav ul {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  .categorieen {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .categorieen img {
+    width: 100px;
+    height: 100px;
+  }
+
+  .hoofdkaars {
+    padding: 10px;
+  }
+}
+a:focus-visible,
+#lichtknop:focus-visible + label {
+  outline: 3px solid light-dark(var(--bruin), var(--geel));
+  outline-offset: 5px;
 }
 
-/**************************
-* MARK: Main
-**************************/
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
 
-main {
+  .categorieen img {
+    transition: none;
+  }
+
+  .categorieen img:hover {
+    transform: none;
+  }
 }
-
-/**************************
-* MARK: Section ...
-**************************/
